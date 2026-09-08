@@ -1,18 +1,8 @@
-LIAD Space Defender V7.7.1 — Boss Hotfix
+LIAD Space Defender V7.7.2 — Feedback UI Update
 
-FIXED
-• Boss immortality from V7.7.
-  Cause: boss HP was multiplied by a non-existent DIFF.hp property, producing NaN.
-• Added a defensive finite-HP check so an invalid boss HP can no longer enter combat.
-• Boss HP scaling:
-  CADET x1.00
-  PILOT x1.15
-  ACE   x1.35
-
-UI
-• Level progress bar moved from the top HUD to the bottom-center.
-• On iPhone the bar is narrower and thinner so it does not cover score, level, lives,
-  credits, frame information, pause or weapon controls.
-• Progress label shortened to LV / BOSS.
-
-All V7.7 boss ladder and weapon systems retained.
+• Shield visibility improved with a stronger double energy ring and a separate SHIELD badge.
+• Boss health now shows current HP / max HP and percentage.
+• Boss health bar updates continuously.
+• AUTO-HANGAR ON/OFF added to the main menu.
+• AUTO-HANGAR OFF completely disables automatic shop popups.
+• Hangar still opens manually from the main menu and pause.
