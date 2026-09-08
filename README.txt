@@ -1,8 +1,15 @@
-LIAD Space Defender V7.7.3 — Boss HUD Layout Fix
+LIAD Space Defender V7.7.5 — Pacing & Boss Explosion Update
 
-• Boss health HUD redesigned into a compact bottom-center card.
-• Boss name, exact HP and percentage are shown on one line above the health bar.
-• Boss HUD no longer sits over the top score/level/lives/credits area.
-• Level progress bar automatically moves upward while a boss is active so the two bars do not overlap.
-• iPhone uses a narrower boss card; iPad keeps a wider version.
-• Shield and AUTO-HANGAR settings from V7.7.2 retained.
+• Minimum 30 seconds of normal combat before each boss can appear.
+• Boss requires BOTH: level combat time >= 30 sec and the normal score/progress target.
+• Progress bar now reflects both time and combat progress, so it cannot show 100% too early.
+• During the last ~12 seconds before a boss, enemy supply-drop chance increases.
+• Boss death now triggers:
+  - large particle burst
+  - bright full-screen flash
+  - expanding shockwave rings
+  - multi-stage explosion sound
+• After boss destruction there is ~2.8 seconds of breathing room before the next sector begins.
+• Enemies and hostile projectiles are cleared during the transition.
+• Legacy instant boss spawn on levels 5/10 removed.
+• Existing boss HUD, shield indicator and AUTO-HANGAR toggle retained.
