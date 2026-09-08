@@ -1,15 +1,20 @@
-LIAD Space Defender V7.7.5 — Pacing & Boss Explosion Update
+LIAD Space Defender V7.7.6 — Enemy Tiers & Meteor Hazard
 
-• Minimum 30 seconds of normal combat before each boss can appear.
-• Boss requires BOTH: level combat time >= 30 sec and the normal score/progress target.
-• Progress bar now reflects both time and combat progress, so it cannot show 100% too early.
-• During the last ~12 seconds before a boss, enemy supply-drop chance increases.
-• Boss death now triggers:
-  - large particle burst
-  - bright full-screen flash
-  - expanding shockwave rings
-  - multi-stage explosion sound
-• After boss destruction there is ~2.8 seconds of breathing room before the next sector begins.
-• Enemies and hostile projectiles are cleared during the transition.
-• Legacy instant boss spawn on levels 5/10 removed.
-• Existing boss HUD, shield indicator and AUTO-HANGAR toggle retained.
+NEW ENEMY DURABILITY
+• SCOUT: 1 hit.
+• Small ROCK: 1 hit; large ROCK: 2 hits.
+• DRONE: 2–3 hits.
+• RAIDER: 3–5 hits depending on sector.
+• KAMIKAZE: 2–3 hits.
+• TANK: 6+ hits, scaling upward by sector.
+• Multi-hit enemies show a small local health bar after taking damage.
+
+NEW HAZARD — INDESTRUCTIBLE METEOR
+• Meteors cannot be destroyed by bullets or rockets.
+• Player rockets do not target meteors.
+• Hitting a meteor while shielded destroys the ENTIRE active shield immediately.
+• Hitting a meteor without a shield removes one life.
+• Meteor frequency rises slightly across later sectors.
+• Meteor has a visually distinct hot/cracked rock skin.
+
+All V7.7.5 pacing, 30-second boss minimum, boss explosions and Smart Hangar systems retained.
