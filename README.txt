@@ -1,12 +1,17 @@
-LIAD Space Defender V7.6 — Touch & Frame Update
+LIAD Space Defender V7.7 — Level Progress & Boss Ladder
 
-• Fixed the L-01 / CORPUS card: it is now a real control.
-  Tapping it opens the Hangar and highlights the HULL upgrade.
-• Frame progression is now correctly tied to HULL:
-  HULL 0 = L-01, HULL 1–2 = L-02, HULL 3 = L-03.
-• Touch control changed: LIAD flies ahead of the user's finger instead of under it.
-  Adaptive lead is roughly 68–88 px on iPhone and 82–112 px on iPad.
-• Initial ship position moved farther forward.
-• Added stronger twin reactive exhaust streams plus a central hot exhaust core.
-• All V7.5 systems retained: boss weapons, homing missiles, skins, cosmic sectors,
-  Smart Hangar and universal iPhone/iPad PWA.
+• Live progress bar for every level.
+• A boss now appears at the end of every level.
+• 10 bosses, each with increasing HP, movement speed, fire cadence and projectile pressure.
+• Each boss uses a different weapon pattern:
+  1 MANTIS — aimed cannon
+  2 VIPER — plasma spread
+  3 BASTION — heavy cannon + radial pulse
+  4 RAZOR — fast cannon + homing missile
+  5 KRAKEN — plasma fan + paired missiles
+  6 SPECTER — cross/radial attack
+  7 TITAN — rotating ring + burst
+  8 ECLIPSE — high-speed lance + fan
+  9 LEVIATHAN — projectile storm + heavy missiles
+ 10 ARES — radial cannon + fast burst + triple heavy homing salvo
+• All V7.6 features retained.
