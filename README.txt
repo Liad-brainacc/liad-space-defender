@@ -1,3 +1,3 @@
-LIAD Space Defender V7.1 — iPad PWA
-Update: CADET / PILOT / ACE difficulty modes, difficulty reward multipliers, upgraded LIAD ship skin, richer enemy classes and boss visuals.
-Upload all files to the root of the existing GitHub Pages repository and replace the old files.
+LIAD Space Defender V7.2 — Universal Edition
+Responsive PWA for iPhone portrait/landscape and iPad portrait/landscape.
+Upload all files to the root of the GitHub Pages repository and replace previous versions.

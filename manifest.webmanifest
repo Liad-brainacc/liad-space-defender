@@ -1,11 +1,11 @@
 {
-  "name": "LIAD Space Defender V7.1",
+  "name": "LIAD Space Defender V7.2",
   "short_name": "LIAD Defender",
-  "description": "LIAD Space Defender V7.1 — iPad Arcade Edition with difficulty modes and upgraded ship/enemy visuals",
+  "description": "LIAD Space Defender V7.2 — Universal iPhone + iPad Arcade Edition",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
-  "orientation": "landscape",
+  "orientation": "any",
   "background_color": "#02040d",
   "theme_color": "#02040d",
   "icons": [
