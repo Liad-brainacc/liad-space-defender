@@ -1,3 +1,3 @@
-LIAD Space Defender V7.2 — Universal Edition
-Responsive PWA for iPhone portrait/landscape and iPad portrait/landscape.
-Upload all files to the root of the GitHub Pages repository and replace previous versions.
+LIAD Space Defender V7.3 — Smart Hangar Update
+Universal iPhone + iPad PWA.
+Авто-ангар появляется только при доступной покупке; после пропуска ждёт следующего ценового порога. Ангар доступен вручную из паузы.

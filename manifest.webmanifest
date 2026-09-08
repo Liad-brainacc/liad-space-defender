@@ -1,7 +1,7 @@
 {
-  "name": "LIAD Space Defender V7.2",
+  "name": "LIAD Space Defender V7.3",
   "short_name": "LIAD Defender",
-  "description": "LIAD Space Defender V7.2 — Universal iPhone + iPad Arcade Edition",
+  "description": "LIAD Space Defender V7.3 — Universal Edition with Smart Hangar",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
