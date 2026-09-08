@@ -1,8 +1,8 @@
-LIAD Space Defender V7.7.2 — Feedback UI Update
+LIAD Space Defender V7.7.3 — Boss HUD Layout Fix
 
-• Shield visibility improved with a stronger double energy ring and a separate SHIELD badge.
-• Boss health now shows current HP / max HP and percentage.
-• Boss health bar updates continuously.
-• AUTO-HANGAR ON/OFF added to the main menu.
-• AUTO-HANGAR OFF completely disables automatic shop popups.
-• Hangar still opens manually from the main menu and pause.
+• Boss health HUD redesigned into a compact bottom-center card.
+• Boss name, exact HP and percentage are shown on one line above the health bar.
+• Boss HUD no longer sits over the top score/level/lives/credits area.
+• Level progress bar automatically moves upward while a boss is active so the two bars do not overlap.
+• iPhone uses a narrower boss card; iPad keeps a wider version.
+• Shield and AUTO-HANGAR settings from V7.7.2 retained.
