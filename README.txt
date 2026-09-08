@@ -1,5 +1,3 @@
-LIAD Space Defender V7 — PWA package
-
-Upload all files in this folder to any HTTPS static host.
-Open the HTTPS URL in Safari on iPad, Share -> Add to Home Screen.
-After the first successful load, the service worker caches the game for offline use.
+LIAD Space Defender V7.1 — iPad PWA
+Update: CADET / PILOT / ACE difficulty modes, difficulty reward multipliers, upgraded LIAD ship skin, richer enemy classes and boss visuals.
+Upload all files to the root of the existing GitHub Pages repository and replace the old files.

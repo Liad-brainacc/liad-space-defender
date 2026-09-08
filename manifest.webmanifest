@@ -1,7 +1,7 @@
 {
-  "name": "LIAD Space Defender V7",
+  "name": "LIAD Space Defender V7.1",
   "short_name": "LIAD Defender",
-  "description": "LIAD Space Defender V7 — iPad Arcade Edition",
+  "description": "LIAD Space Defender V7.1 — iPad Arcade Edition with difficulty modes and upgraded ship/enemy visuals",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
